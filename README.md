@@ -48,7 +48,7 @@ To increase sales, **target women aged 30-49** living in **Maharashtra, Karnatak
 
 _**Image Placeholder**_  
 
-![Vrinda Store Annual Report 2022 Dashboard](assets/vrinda-dashboard.png)
+![Vrinda Store Annual Report 2022 Dashboard](vrinda-dashboard.png)
 
 ---
 
